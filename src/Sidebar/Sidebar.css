@@ -1,0 +1,15 @@
+.img-round { 
+  height:160px;
+  width: 66%;
+  border-radius: 25px;
+  margin: auto;
+  display: block;
+}
+
+.test {
+  font-size: 10px
+}
+
+.center {
+  text-align: center;
+}
