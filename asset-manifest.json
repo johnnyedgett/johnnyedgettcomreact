@@ -1,15 +1,15 @@
 {
-  "main.css": "/website/static/css/main.a9eea726.chunk.css",
-  "main.js": "/website/static/js/main.34c3595b.chunk.js",
-  "main.js.map": "/website/static/js/main.34c3595b.chunk.js.map",
-  "static/js/1.66785a4a.chunk.js": "/website/static/js/1.66785a4a.chunk.js",
-  "static/js/1.66785a4a.chunk.js.map": "/website/static/js/1.66785a4a.chunk.js.map",
-  "runtime~main.js": "/website/static/js/runtime~main.df8eefd1.js",
-  "runtime~main.js.map": "/website/static/js/runtime~main.df8eefd1.js.map",
-  "static/css/main.a9eea726.chunk.css.map": "/website/static/css/main.a9eea726.chunk.css.map",
-  "static/media/mejpg.jpg": "/website/static/media/mejpg.9b403568.jpg",
-  "static/media/JumbotronComp.css": "/website/static/media/james-wheeler-1175272-unsplash.3b6a59e3.jpg",
-  "index.html": "/website/index.html",
-  "precache-manifest.f2f14bb6dea612d236f03621b461987a.js": "/website/precache-manifest.f2f14bb6dea612d236f03621b461987a.js",
-  "service-worker.js": "/website/service-worker.js"
+  "main.css": "/johnnyedgettcomreact/static/css/main.976abc67.chunk.css",
+  "main.js": "/johnnyedgettcomreact/static/js/main.18ea477c.chunk.js",
+  "main.js.map": "/johnnyedgettcomreact/static/js/main.18ea477c.chunk.js.map",
+  "static/js/1.66785a4a.chunk.js": "/johnnyedgettcomreact/static/js/1.66785a4a.chunk.js",
+  "static/js/1.66785a4a.chunk.js.map": "/johnnyedgettcomreact/static/js/1.66785a4a.chunk.js.map",
+  "runtime~main.js": "/johnnyedgettcomreact/static/js/runtime~main.1a69f7ec.js",
+  "runtime~main.js.map": "/johnnyedgettcomreact/static/js/runtime~main.1a69f7ec.js.map",
+  "static/css/main.976abc67.chunk.css.map": "/johnnyedgettcomreact/static/css/main.976abc67.chunk.css.map",
+  "static/media/mejpg.jpg": "/johnnyedgettcomreact/static/media/mejpg.9b403568.jpg",
+  "static/media/JumbotronComp.css": "/johnnyedgettcomreact/static/media/james-wheeler-1175272-unsplash.3b6a59e3.jpg",
+  "index.html": "/johnnyedgettcomreact/index.html",
+  "precache-manifest.a4539c2f7f1a7a80bdd0db54a118139b.js": "/johnnyedgettcomreact/precache-manifest.a4539c2f7f1a7a80bdd0db54a118139b.js",
+  "service-worker.js": "/johnnyedgettcomreact/service-worker.js"
 }
