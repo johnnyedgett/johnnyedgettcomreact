@@ -1,19 +1,16 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Navbar from './Navbar/Navbar'
 import JumbotronComp from './Jumbotron/Jumbotron';
-import CommandTable from './CommandTable/CommandTable'
 import Sidebar from './Sidebar/Sidebar'
 import {Grid,Row,Col} from 'react-bootstrap'
 import Sticky from 'react-stickynode'
-import Spam from './Spam/Spam'
 import Post from './Blogpost/Post'
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
+      <div className="App"  >
       <Navbar></Navbar>
       <JumbotronComp></JumbotronComp>
       <Grid>
@@ -25,7 +22,6 @@ class App extends Component {
           </Col>
           <Col sm={8}>
           <Post></Post>
-          {/* <Spam></Spam> */}
           </Col>
         </Row>
       </Grid>

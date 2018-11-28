@@ -4,15 +4,29 @@ import React, { Component } from 'react'
 class Post extends Component {
   render(){
     const style = {
-      'text-align':'right',
-      'font-size':'14px'
+      'text-align':'left',
+      'font-size':'12px'
     }
-    const postList = posts.map
-      (
+    const border = {
+      'border-width':'2px',
+      'border-style':'solid',
+      'border-color':'#f7f5f3',
+      'border-radius': '25px',
+      // 'padding':'5px',
+      'padding-left':'10px',
+      'padding-bottom':'20px',
+      'box-shadow':'5px 5px #ebe9e7'
+    }
+    const padding = {
+      'padding-bottom':'20px'
+    }
+    const postList = posts.map(
         (post)=> 
-          <div key={post.title}>
-            <h3>{post.title}<div style={style}>{post.date.toDateString()}</div></h3>
-            <p>{post.content}</p>
+          <div style={padding}>
+            <div key={post.title} style={border}>
+              <h3>{post.title}<div style={style}>{post.date.toDateString()}</div> <hr></hr></h3>
+              <p>{post.content}</p>
+            </div>
           </div>
       )
     return (
