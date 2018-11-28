@@ -2,7 +2,7 @@
   "name": "johnnyedgettcomreact",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://johnnyedgettreact.github.io/website/",
+  "homepage": "https://johnnyedgett.github.io/johnnyedgettcomreact",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
